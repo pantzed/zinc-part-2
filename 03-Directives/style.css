@@ -1,0 +1,31 @@
+.user {
+    background-color: #ccc;
+    height: 100px;
+    padding: 10px;
+    margin: 8px;
+    list-style-type: none;
+}
+
+.user-photo {
+    float: left;
+    height: 100px;
+    width: auto;
+    margin-right: 20px;
+}
+
+.user-name {
+    font-size: 2em;
+    font-weight: bold;
+}
+
+.user-location {
+    font-size: 1em;
+}
+
+.user-email {
+    font-style: italic;
+}
+
+.hilight {
+    background-color: lightcoral;
+}
